@@ -1,5 +1,6 @@
 package ejercicio5p3;
 
+//importación del Scanner
 import java.util.Scanner;
 
 public class Ejercicio5p3 {
